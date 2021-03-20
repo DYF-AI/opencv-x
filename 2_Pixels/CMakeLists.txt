@@ -1,0 +1,16 @@
+cmake_minimum_required(VERSION 3.13)
+project(DisplayImage)
+find_package(OpenCV REQUIRED)
+include_directories(${OpenCV_INCLUDE_DIRS})
+
+add_executable(addImages addImages.cpp)
+add_executable(colorReduce colorReduce.cpp)
+add_executable(contrast contrast.cpp)
+add_executable(remapping remapping.cpp)
+add_executable(saltImage saltImage.cpp)
+
+target_link_libraries(addImages ${OpenCV_LIBS})
+target_link_libraries(colorReduce ${OpenCV_LIBS})
+target_link_libraries(contrast ${OpenCV_LIBS})
+target_link_libraries(remapping ${OpenCV_LIBS})
+target_link_libraries(saltImage ${OpenCV_LIBS})
