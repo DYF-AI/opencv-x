@@ -1,0 +1,7 @@
+/mnt/g/src/opencv_project/OpenCV_Tutorial/2_Pixels/build/CMakeFiles/rebuild_cache.dir
+/mnt/g/src/opencv_project/OpenCV_Tutorial/2_Pixels/build/CMakeFiles/addImages.dir
+/mnt/g/src/opencv_project/OpenCV_Tutorial/2_Pixels/build/CMakeFiles/colorReduce.dir
+/mnt/g/src/opencv_project/OpenCV_Tutorial/2_Pixels/build/CMakeFiles/edit_cache.dir
+/mnt/g/src/opencv_project/OpenCV_Tutorial/2_Pixels/build/CMakeFiles/contrast.dir
+/mnt/g/src/opencv_project/OpenCV_Tutorial/2_Pixels/build/CMakeFiles/remapping.dir
+/mnt/g/src/opencv_project/OpenCV_Tutorial/2_Pixels/build/CMakeFiles/saltImage.dir
