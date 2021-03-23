@@ -16,7 +16,7 @@ and any consequent failure, is purely the responsibility of the user.
 Copyright (C) 2016 Robert Laganiere, www.laganiere.name
 \*------------------------------------------------------------------------------------------*/
 
-
+#include <iostream>
 #include <stdio.h>
 #include <opencv2/core.hpp>
 #include <opencv2/highgui.hpp>
@@ -25,13 +25,16 @@ using namespace cv;
 
 int main(int argc, char** argv)
 {
-    if(argc !=2) {
-        printf("usage: DisplayImage.out <Image_Path>\n");
-        return -1;
-    }
+    // if(argc !=2) {
+    //     printf("usage: DisplayImage.out <Image_Path>\n");
+    //     return -1;
+    // }
 
     Mat image;
-    image = imread(argv[1], 1);
+    //image = imread(argv[1], 1);
+    image = imread("../bench1.jpg", 1);
+    // H W
+    std::cout << "WIDTH HEIGHT: " << image.rows << " " << image.cols << std::endl;
     // namedWindow("Display Image", WINDOW_AUTOSIZE);
     // imshow("Display Image", image);
     imwrite("opencv_image.jpg", image);
