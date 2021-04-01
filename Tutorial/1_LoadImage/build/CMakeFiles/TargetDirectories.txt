@@ -1,0 +1,3 @@
+/mnt/g/src/opencv_project/OpenCV_Tutorial/1_LoadImage/build/CMakeFiles/rebuild_cache.dir
+/mnt/g/src/opencv_project/OpenCV_Tutorial/1_LoadImage/build/CMakeFiles/loadImage.dir
+/mnt/g/src/opencv_project/OpenCV_Tutorial/1_LoadImage/build/CMakeFiles/edit_cache.dir
