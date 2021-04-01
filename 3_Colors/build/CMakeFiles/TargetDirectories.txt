@@ -1,5 +1,0 @@
-/mnt/g/src/opencv_project/OpenCV_Tutorial/3_Colors/build/CMakeFiles/rebuild_cache.dir
-/mnt/g/src/opencv_project/OpenCV_Tutorial/3_Colors/build/CMakeFiles/huesaturation.dir
-/mnt/g/src/opencv_project/OpenCV_Tutorial/3_Colors/build/CMakeFiles/edit_cache.dir
-/mnt/g/src/opencv_project/OpenCV_Tutorial/3_Colors/build/CMakeFiles/colorDetection.dir
-/mnt/g/src/opencv_project/OpenCV_Tutorial/3_Colors/build/CMakeFiles/extractObject.dir

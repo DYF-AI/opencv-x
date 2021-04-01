@@ -1,8 +1,0 @@
-/mnt/g/src/opencv_project/OpenCV_Tutorial/4_Hist/build/CMakeFiles/rebuild_cache.dir
-/mnt/g/src/opencv_project/OpenCV_Tutorial/4_Hist/build/CMakeFiles/histograms.dir
-/mnt/g/src/opencv_project/OpenCV_Tutorial/4_Hist/build/CMakeFiles/integral.dir
-/mnt/g/src/opencv_project/OpenCV_Tutorial/4_Hist/build/CMakeFiles/finder.dir
-/mnt/g/src/opencv_project/OpenCV_Tutorial/4_Hist/build/CMakeFiles/retrieve.dir
-/mnt/g/src/opencv_project/OpenCV_Tutorial/4_Hist/build/CMakeFiles/edit_cache.dir
-/mnt/g/src/opencv_project/OpenCV_Tutorial/4_Hist/build/CMakeFiles/contentFinder.dir
-/mnt/g/src/opencv_project/OpenCV_Tutorial/4_Hist/build/CMakeFiles/tracking.dir
