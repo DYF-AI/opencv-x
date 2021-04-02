@@ -9,3 +9,7 @@
 - The code of the original project only supports OpenCV3, now we modify the code to support OpenCV4.5.0, and adjust the code structure of the original project
 
 - environment: WSL2 + Docker + OpenCV4.5.0
+
+# [learnopencv](https://github.com/spmallick/learnopencv)
+- AlphaBlending
+- SeamlessCloning
