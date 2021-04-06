@@ -3,7 +3,7 @@
 import cv2
 import numpy as np
 
-def seamless_mix_nirmal(image_src:str, image_dst:str):
+def seamless_mix_normal(image_src:str, image_dst:str):
 
     # 1. 读取src和dst
     img_src = cv2.imread(image_src)
@@ -30,7 +30,7 @@ def seamless_mix_nirmal(image_src:str, image_dst:str):
 def demo():
     image_src = "images/wood-texture.jpg"
     image_dst = "images/iloveyouticket.jpg"
-    seamless_mix_nirmal(image_src, image_dst)
+    seamless_mix_normal(image_src, image_dst)
 
 if __name__ == '__main__':
     import fire
