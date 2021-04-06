@@ -13,6 +13,7 @@ def seamlessCloning(image_src:str, image_dst:str):
 
     # mask
     src_mask = np.zeros(img_src.shape, img_src.dtype)
+    # 多边形
     poly = np.array([ [4,80], [30,54], [151,63], [254,37], [298,90], [272,134], [43,122] ], np.int32)
     cv2.fillPoly(src_mask, [poly], (255, 255, 255))
     cv2.imshow("mask", src_mask)
